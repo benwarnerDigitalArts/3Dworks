@@ -4,7 +4,7 @@
 
 [See my final team project from a Unity based class](https://teamnewtonian.github.io/phageshift/)
 
-[See my Z Brush works here](https://benwarnerdigitalarts.github.io/3dworks/zbrush/)
+[See my Z Brush works here](https://benwarnerdigitalarts.github.io/3Dworks/zbrush/)
 
 [See my art station page here] ()
 
