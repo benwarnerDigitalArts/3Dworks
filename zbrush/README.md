@@ -1,5 +1,5 @@
 # Digital Production Arts
-#### DPA Intro to Z Brush
+#### DPA 6830 Digital Scultpting in Z Brush
 #### By: Benjamin B. Warner
 
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
