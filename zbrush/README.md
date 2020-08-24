@@ -2,7 +2,7 @@
 #### DPA Intro to Z Brush
 #### By: Benjamin B. Warner
 
-[Final Turnaround](https://benwarnerdigitalarts.github.io/3Dworks/images/zBrush/Warner_Ben_P6-06.jpg)
+![Final Turnaround](https://benwarnerdigitalarts.github.io/3Dworks/images/zBrush/Warner_Ben_P6-06.jpg)
 
 ![Full View](https://benwarnerdigitalarts.github.io/3Dworks/images/zBrush/Warner_Ben_P6-01.jpg)
 
