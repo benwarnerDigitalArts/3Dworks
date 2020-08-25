@@ -1,17 +1,19 @@
 # Digital Production Arts
-#### DPA Intro to Z Brush
+#### DPA 6830 Digital Scultpting in Z Brush
 #### By: Benjamin B. Warner
 
-![Final Turnaround](https://benwarnerdigitalarts.github.io/3dworks/images/Warner_Ben_P6-06)
+[Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
-![Full View](https://benwarnerdigitalarts.github.io/3dworks/images/Warner_Ben_P6-01)
+![Final Turnaround](https://benwarnerdigitalarts.github.io/3Dworks/images/zBrush/Warner_Ben_P6-06.jpg)
 
-![Legs Detail](https://benwarnerdigitalarts.github.io/3dworks/images/Warner_Ben_P6-02)
+![Full View](https://benwarnerdigitalarts.github.io/3Dworks/images/zBrush/Warner_Ben_P6-01.jpg)
 
-![Chest Detail](https://benwarnerdigitalarts.github.io/3dworks/images/Warner_Ben_P6-03)
+![Legs Detail](https://benwarnerdigitalarts.github.io/3Dworks/images/zBrush/Warner_Ben_P6-02.jpg)
 
-![Head Detail](https://benwarnerdigitalarts.github.io/3dworks/images/Warner_Ben_P6-04)
+![Chest Detail](https://benwarnerdigitalarts.github.io/3Dworks/images/zBrush/Warner_Ben_P6-03.jpg)
 
-![Back Detail](https://benwarnerdigitalarts.github.io/3dworks/images/Warner_Ben_P6-05)
+![Head Detail](https://benwarnerdigitalarts.github.io/3Dworks/images/zBrush/Warner_Ben_P6-04.jpg)
+
+![Back Detail](https://benwarnerdigitalarts.github.io/3Dworks/images/zBrush/Warner_Ben_P6-05.jpg)
 
 
