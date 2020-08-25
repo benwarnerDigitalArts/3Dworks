@@ -2,7 +2,7 @@
 #### DPA 8070 3D Modeling and Animation with Jim Sidletsky
 #### By: Benjamin B. Warner
 
-##Project 1: Primitives Robot, Date: August 26th, 2020
+## Project 1: Primitives Robot, Date: August 26th, 2020
 
 Objective: design and build a robot using only primitive shapes and basic manipulations (move, rotate, and scale).
 
