@@ -14,7 +14,7 @@ When queried about their purpose, the artificial intelligence in this unit may h
 
 ![Detail view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/project1/primitivesRobotDetail.jpg)
 
-![Turnaround](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/project1/primitivesRobotTurn.jpg)
+![Turnaround](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/project1/primitivesRobotMultiTurn.jpg)
 
 ![Multi view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/project1/primitivesRobotMulti.jpg)
 
