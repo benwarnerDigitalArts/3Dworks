@@ -3,7 +3,7 @@
 #### By: Benjamin B. Warner
 
 ## Project 2: Solar System Animation
-###Date: Spetember 2nd, 2020
+### Date: Spetember 2nd, 2020
 [See project 2 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem)
 
 ![Solar System gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/movies/solarSystem.gif)

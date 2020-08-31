@@ -5,7 +5,7 @@
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
 ## Project 1: Primitives Robot
-###Date: August 26th, 2020
+### Date: August 26th, 2020
 
 ### Objective:
 Design and build a robot using only primitive shapes and basic manipulations (move, rotate, and scale).
