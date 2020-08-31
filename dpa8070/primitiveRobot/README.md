@@ -15,12 +15,12 @@ The Repulsor Grabber Mark 2, a theoretical mechanism with collapsible and articu
 
 When queried about their purpose, the artificial intelligence in this unit may have an existential melt down.
 
-![Detail view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/images/primitiveRobot/primitivesRobotDetail.jpg)
+![Detail view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot/images/primitivesRobotDetail.jpg)
 
 ### Full Turnaround:
-![Turnaround](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/images/primitiveRobot/primitivesRobotMultiTurn.jpg)
+![Turnaround](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot/images/primitivesRobotMultiTurn.jpg)
 
 ### Maya Multiple View:
-![Multi view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/images/primitiveRobot/primitivesRobotMulti.jpg)
+![Multi view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot/images/primitivesRobotMulti.jpg)
 
 
