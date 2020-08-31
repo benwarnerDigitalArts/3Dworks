@@ -2,11 +2,14 @@
 #### DPA 8070 3D Modeling and Animation with Jim Sidletsky
 #### By: Benjamin B. Warner
 
-## Project 2: Solar System Animation, Date: Spetember 2nd, 2020
-![Solar System gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/movies/solarSystem.gif)
+## Project 2: Solar System Animation
+###Date: Spetember 2nd, 2020
 [See project 2 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem)
 
-## Project 1: Primitives Robot, Date: August 26th, 2020
+![Solar System gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/movies/solarSystem.gif)
+
+## Project 1: Primitives Robot
+###Date: August 26th, 2020
 [See project 1 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot)
 
 ![Detail view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot/primitivesRobotDetail.jpg)
