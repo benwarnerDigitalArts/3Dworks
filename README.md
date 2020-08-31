@@ -9,7 +9,7 @@
 ![Solar System gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/movies/solarSystem.gif)
 
 ## Project 1: Primitives Robot
-###Date: August 26th, 2020
+### Date: August 26th, 2020
 [See project 1 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot)
 
 ![Detail view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot/primitivesRobotDetail.jpg)
