@@ -19,10 +19,10 @@ Moons were determined to orbit each planet in a very similar way, carefully avoi
 
 Finally, the orbits are all set in a way to create a perfectly looping gif.  This results in a periodic "alignment of the spheres", which is associated with some sort of supernatural phenomena.  Maybe it's Cthulhu?
 
-![Solar System gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/images/solarSystem.gif)
+![Solar System gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/solarSystem.gif)
 
-![Hypergraph Hierarchy](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/images/hyperHierarchy.jpg)
+![Hypergraph Hierarchy](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/hyperHierarchy.jpg)
 
-![Sun and Inner Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/images/sunAndInnerPlanets.jpg)
+![Sun and Inner Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/sunAndInnerPlanets.jpg)
 
-![Outer Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/images/outerPlanets.jpg)
+![Outer Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/outerPlanets.jpg)

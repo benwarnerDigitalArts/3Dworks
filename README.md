@@ -6,13 +6,13 @@
 ### Date: Spetember 2nd, 2020
 [See project 2 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem)
 
-![Solar System gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/images/solarSystem.gif)
+![Solar System gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/solarSystem.gif)
 
 ## Project 1: Primitives Robot
 ### Date: August 26th, 2020
 [See project 1 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot)
 
-![Detail view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot/primitivesRobotDetail.jpg)
+![Detail view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot/images/primitivesRobotDetail.jpg)
 
 [See my final team project from a Unity based class](https://teamnewtonian.github.io/phageshift/)
 
