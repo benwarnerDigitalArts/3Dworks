@@ -17,10 +17,10 @@ When queried about their purpose, the artificial intelligence in this unit may h
 
 ![Detail view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/images/primitiveRobot/primitivesRobotDetail.jpg)
 
-## Full Turnaround:
+### Full Turnaround:
 ![Turnaround](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/images/primitiveRobot/primitivesRobotMultiTurn.jpg)
 
-## Maya Multiple View:
+### Maya Multiple View:
 ![Multi view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/images/primitiveRobot/primitivesRobotMulti.jpg)
 
 
