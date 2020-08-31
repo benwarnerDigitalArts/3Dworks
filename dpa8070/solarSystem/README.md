@@ -4,7 +4,7 @@
 
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
-## Project 2: Solar System Animation
+## Exercise 2: Solar System Animation
 ### Date: Spetember 2nd, 2020
 
 ### Objective:

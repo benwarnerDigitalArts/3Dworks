@@ -4,7 +4,7 @@
 
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
-## Project 1: Primitives Robot
+## Exercise 1: Primitives Robot
 ### Date: August 26th, 2020
 
 ### Objective:
