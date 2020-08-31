@@ -22,10 +22,10 @@ Finally, the orbits are all set in a way to create a perfectly looping gif.  Thi
 ![Solar System gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/solarSystem.gif)
 
 ### Hypergraph Hierarchy:
-![Hypergraph Hierarchy](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/hyperHierarchy.jpg)
+![Hypergraph Hierarchy](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/hyperHierarchy.JPG)
 
 ### Sun and Inner Planet details:
-![Sun and Inner Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/sunAndInnerPlanets.jpg)
+![Sun and Inner Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/sunAndInnerPlanets.JPG)
 
 ### Outer Planets details:
-![Outer Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/outerPlanets.jpg)
+![Outer Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/outerPlanets.JPG)
