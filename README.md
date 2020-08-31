@@ -2,21 +2,14 @@
 #### DPA 8070 3D Modeling and Animation with Jim Sidletsky
 #### By: Benjamin B. Warner
 
+## Project 2: Solar System Animation, Date: Spetember 2nd, 2020
+![Solar System gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/movies/solarSystem.gif)
+[See project 2 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem)
+
 ## Project 1: Primitives Robot, Date: August 26th, 2020
+[See project 1 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot)
 
-### Objective:
-Design and build a robot using only primitive shapes and basic manipulations (move, rotate, and scale).
-
-### Solution:
-The Repulsor Grabber Mark 2, a theoretical mechanism with collapsible and articulated extremities.  This model features repulsors to effortlessly glide around and powerful grabbers to pick up items of interest.
-
-When queried about their purpose, the artificial intelligence in this unit may have an existential melt down.
-
-![Detail view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/project1/primitivesRobotDetail.jpg)
-
-![Turnaround](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/project1/primitivesRobotMultiTurn.jpg)
-
-![Multi view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/project1/primitivesRobotMulti.jpg)
+![Detail view](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/primitiveRobot/primitivesRobotDetail.jpg)
 
 [See my final team project from a Unity based class](https://teamnewtonian.github.io/phageshift/)
 
