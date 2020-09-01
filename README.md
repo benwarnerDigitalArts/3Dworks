@@ -2,6 +2,12 @@
 #### DPA 8070 3D Modeling and Animation with Jim Sidletsky
 #### By: Benjamin B. Warner
 
+## Exercise 3: Lemon Squeezer modeling
+### Date: Spetember 2nd, 2020
+[See exercise 3 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/lemonJuicer)
+
+![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/lemonJuicer/images/sideBYside.JPG)
+
 ## Excercise 2: Solar System Animation
 ### Date: Spetember 2nd, 2020
 [See exercise 2 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem)
