@@ -2,6 +2,13 @@
 #### DPA 8070 3D Modeling and Animation with Jim Sidletsky
 #### By: Benjamin B. Warner
 
+
+## Exercise 4: Computer Desk Rendering
+### Date: Spetember 9th, 2020
+[See exercise 4 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender)
+
+![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskComparison.PNG)
+
 ## Exercise 3: Lemon Squeezer modeling
 ### Date: Spetember 2nd, 2020
 [See exercise 3 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/lemonJuicer)

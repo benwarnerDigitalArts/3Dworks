@@ -4,11 +4,11 @@
 
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
-## Exercise 2: Solar System Animation
-### Date: Spetember 2nd, 2020
+## Exercise 4: Computer Desk Rendering
+### Date: Spetember 9th, 2020
 
 ### Objective:
-Construct a solar system out of basic shapes and animate orbits with moons.
+Given a single reference image, recreate a computer desk with box modeling techniques as closely as possible.
 
 ### Solution:
 Arranging the spheres and assigning colors was simple enough, but the real challenge came in creating believable orbits and recording the resulting animation.
@@ -19,13 +19,15 @@ Moons were determined to orbit each planet in a very similar way, carefully avoi
 
 Finally, the orbits are all set in a way to create a perfectly looping gif.  This results in a periodic "alignment of the spheres", which is associated with some sort of supernatural phenomena.  Maybe it's Cthulhu?
 
-![Solar System gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/solarSystem.gif)
+![Desk Rendered](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskRendered.PNG)
 
-### Hypergraph Hierarchy:
-![Hypergraph Hierarchy](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/hyperHierarchy.JPG)
+### Desk Wireframe:
+![Wireframe](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskWireframe.PNG)
 
-### Sun and Inner Planet details:
-![Sun and Inner Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/sunAndInnerPlanets.JPG)
+### Drawers and Drawer Details:
+![Drawers](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskDrawers.PNG)
+![Drawers detail](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskDrawersDetails.PNG)
 
-### Outer Planets details:
-![Outer Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/solarSystem/images/outerPlanets.JPG)
+### Legs details:
+![Outer Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskLegDetails.PNG)
+![Outer Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskLegWireframes.PNG)
