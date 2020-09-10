@@ -11,13 +11,15 @@
 Given a single reference image, recreate a computer desk with box modeling techniques as closely as possible.
 
 ### Solution:
-Arranging the spheres and assigning colors was simple enough, but the real challenge came in creating believable orbits and recording the resulting animation.
+To begin, I created a cube and deformed it with basic scale manipulations and then proceeded to subdivide until there was enough geometry to create the top of the desk.
 
-Obviously, realistic orbits were unreasonable to implement (Earth would complete about 165 rotations before Neptune could do 1), so the next best thing is to rank the orbits very linearly.  This menas that Mercury completes 9 rotations when Venus completes 8 and so on until... Neptune completes 2. As if there was a 9th planet at some point.  Strange.
+From there, I began inserting edge loops as needed while planning out how I would extrude the rest of the features. At that point, I began extruding the main form of the drawers, then created recessions for them, and finally pulled out the legs.
 
-Moons were determined to orbit each planet in a very similar way, carefully avoiding placing any in the same exact orbit.  This was done by placing them in up to 4 distinct orbital layers and up to 5 distinct angular offets to allow for up to 20 moons on any planet with distinct orbits.
+Now, I came to a point where I could go about maintaininng symmetry a couple of different ways. I chose to do this by focusing on 1 half of the desk, then cut it in half and did a mirror operation about Z. The results were pretty favorable.
 
-Finally, the orbits are all set in a way to create a perfectly looping gif.  This results in a periodic "alignment of the spheres", which is associated with some sort of supernatural phenomena.  Maybe it's Cthulhu?
+Finally, I decided to model the drawers and knobs seperately to create the best impression of reality and add some sort of functionality to this model.  The drawers were all made very similarly with box modeling from a cube primitive, but the knobs were mde from cylinders and toruses.
+
+Phong shading and a few light sources were added to create the final result, mimicking the reflectance in the reference.
 
 ![Desk Rendered](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskRendered.PNG)
 
@@ -26,8 +28,8 @@ Finally, the orbits are all set in a way to create a perfectly looping gif.  Thi
 
 ### Drawers and Drawer Details:
 ![Drawers](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskDrawers.PNG)
-![Drawers detail](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskDrawersDetails.PNG)
+![Drawers detail](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskDrawerDetails.PNG)
 
 ### Legs details:
-![Outer Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskLegDetails.PNG)
-![Outer Planets](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskLegWireframes.PNG)
+![Legs](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskLegDetails.PNG)
+![Leg Wireframe](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskLegWireframe.PNG)
