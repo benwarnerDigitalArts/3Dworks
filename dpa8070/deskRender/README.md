@@ -26,6 +26,8 @@ Phong shading and a few light sources were added to create the final result, mim
 ### Desk Wireframe:
 ![Wireframe](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskWireframe.PNG)
 
+![Wireframe alt](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskWireframe-alt.PNG)
+
 ### Drawers and Drawer Details:
 ![Drawers](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskDrawers.PNG)
 ![Drawers detail](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/deskRender/images/deskDrawerDetails.PNG)
