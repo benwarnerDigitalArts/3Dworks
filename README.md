@@ -2,6 +2,11 @@
 #### DPA 8070 3D Modeling and Animation with Jim Sidletsky
 #### By: Benjamin B. Warner
 
+## Exercise 5: NURBS Lamp modeling
+### Date: Spetember 21st, 2020
+[See exercise 5 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp)
+
+![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp/images/lampComparison.PNG)
 
 ## Exercise 4: Computer Desk Rendering
 ### Date: Spetember 9th, 2020
