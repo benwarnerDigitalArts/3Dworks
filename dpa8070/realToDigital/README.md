@@ -4,23 +4,28 @@
 
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
-## Exercise 5: NURBS Lamp modeling
-### Date: Spetember 21st, 2020
+## Project 1: Model a Real World Object - King Kittan figure
+### Date: Spetember 23th, 2020
 
 ### Objective:
-Model a lamp based off a single image and only use NURBS.
+Identify a basic object such as a car, animal, or figure to model.
 
 ### Solution:
-#### The first step of my approach is to crop out the whites of the image (using GIMP, but that's hardly important). Then I draw a NURBs line to hug the profile of the lamp, making sure to keep the start and end point at the central line in prepartion for a rotation. I was sure to pay attention to the base of the lamp and drew the line in a way to account for the effect of perspective in the original reference.
+#### I chose to model a small figure of King Kittan from the anime show Gurren Lagann!
 
-![Draw a line](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp/images/lineDrawWithDetails.PNG)
+![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/kingBykingside.PNG)
 
-#### The next step is to do a revolution, but beware the normals! To correct the orientation of those dastardly normals, one could simply reverse the direction of the line.  The result is seen below.  Now it may be noticed that the base is circular. What do now?
+#### My primary method was to focus on roughling fitting primitives to the front and side views of the object with basic manipulations. A transparent mode was used to ensure a good fit. I also focused on only modeling one side of the model, creating a central line to mirror it about to create perfect symmetry.
 
-![Revolve and Flip](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp/images/revolveAndFlip.PNG)
+![modeling](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/modelingProcess.PNG)
 
-#### The final step is to wrestle those daggum control vertices. I grabbed 'em by the corners and pulled 'em out to make a square. To really show 'em who's the boss around here, I added a nice lil' spot light to make it look more lampy.
+#### For enhanced realism, I applied a Blinn material and sampled the colors directly from the images.  Here, you can also see the approximate postions of the image planes that were used.
 
-![Draw a line](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp/images/manipulatedCornersAndLight.PNG)
+![image planes and color](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/imagePlanes-and-Color.JPG)
+
+#### Careful attention was given to ensuring that no "N-gons" were used and that triangles were minimized. For hard lines and to reduce model complexity, the fewest lines possible were used.
+
+![image planes and color](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/wireframeAndDetail.PNG)
+
 
 

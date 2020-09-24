@@ -8,11 +8,11 @@
 
 ![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/kingBykingside.PNG)
 
-[test download](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/kingKittan.mb)
+[Download King Kittan!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/kingKittan.mb)
 
 ## Exercise 5: NURBS Lamp modeling
 ### Date: Spetember 21st, 2020
-[See exercise 5 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp)
+[See exercise 5 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital)
 
 ![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp/images/lampComparison.PNG)
 
