@@ -2,6 +2,14 @@
 #### DPA 8070 3D Modeling and Animation with Jim Sidletsky
 #### By: Benjamin B. Warner
 
+## Project 1: Model a Real World Object - King Kittan figure
+### Date: Spetember 23th, 2020
+[See Project details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital)
+
+![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/kingBykingside.PNG)
+
+[test download](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/kingKittan.mb)
+
 ## Exercise 5: NURBS Lamp modeling
 ### Date: Spetember 21st, 2020
 [See exercise 5 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp)
