@@ -5,7 +5,7 @@
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
 ## Project 1: Model a Real World Object - King Kittan figure
-### Date: Spetember 23th, 2020
+### Date: Spetember 23rd, 2020
 
 ### Objective:
 Identify a basic object such as a car, animal, or figure to model.

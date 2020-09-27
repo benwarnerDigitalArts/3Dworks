@@ -5,7 +5,7 @@
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
 ## Exercise 6: Watch 10 Videos
-### Date: Spetember 23th, 2020
+### Date: Spetember 23rd, 2020
 
 ### Objective:
 Find 10 videos covering advanced Maya techniques and write a brief summary for each one.
