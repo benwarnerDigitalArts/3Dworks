@@ -10,9 +10,15 @@
 
 [Download King Kittan!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/kingKittan.mb)
 
+## Exercise 6: NURBS Lamp modeling
+### Date: Spetember 21st, 2020
+[See exercise 6 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/watch10videos)
+
+![overview](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/wtach10videos/images/overallResultAndRefs)
+
 ## Exercise 5: NURBS Lamp modeling
 ### Date: Spetember 21st, 2020
-[See exercise 5 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital)
+[See exercise 5 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp)
 
 ![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp/images/lampComparison.PNG)
 
