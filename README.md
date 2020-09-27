@@ -14,7 +14,7 @@
 ### Date: Spetember 23rd, 2020
 [See exercise 6 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/watch10videos)
 
-![overview](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/wtach10videos/images/overallResultAndRefs.PNG)
+![overview](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/watch10videos/images/overallResultAndRefs.PNG)
 
 ## Exercise 5: NURBS Lamp modeling
 ### Date: Spetember 21st, 2020
