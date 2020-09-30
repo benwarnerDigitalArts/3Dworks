@@ -10,6 +10,12 @@
 
 [Download King Kittan!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/kingKittan.mb)
 
+## Exercise 7: NURBS shoe!
+### Date: Spetember 28th, 2020
+[See exercise 7 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsShoe)
+
+![wireframe and comparison](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsShoe/images/wireframeAndComparison.PNG)
+
 ## Exercise 6: Watch 10 Videos
 ### Date: Spetember 23rd, 2020
 [See exercise 6 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/watch10videos)
