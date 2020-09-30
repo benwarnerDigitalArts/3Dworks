@@ -5,7 +5,7 @@
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
 ## Exercise 4: Computer Desk Rendering
-### Date: Spetember 9th, 2020
+### Date: September 9th, 2020
 
 ### Objective:
 Given a single reference image, recreate a computer desk with box modeling techniques as closely as possible.

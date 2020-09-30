@@ -5,7 +5,7 @@
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
 ## Exercise 5: NURBS Lamp modeling
-### Date: Spetember 21st, 2020
+### Date: September 21st, 2020
 
 ### Objective:
 Model a lamp based off a single image and only use NURBS.

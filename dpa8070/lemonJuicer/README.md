@@ -5,7 +5,7 @@
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
 ## Exercise 3: Lemon Squeezer modeling
-### Date: Spetember 2nd, 2020
+### Date: September 2nd, 2020
 
 ### Objective:
 Only using a picture of a lemon squeezer, recreate the object in Maya using a variety of modeling tools.

@@ -5,7 +5,7 @@
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
 ## Project 1: Recreate a Shoe using NURBS!
-### Date: Spetember 28th, 2020
+### Date: September 28th, 2020
 
 ### Objective:
 From a single image, recreate a shoe using only (or mostly) NURBS and related tools.
