@@ -4,28 +4,18 @@
 
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
-## Project 1: Model a Real World Object - King Kittan figure
-### Date: Spetember 23rd, 2020
+## Project 1: Recreate a Shoe using NURBS!
+### Date: Spetember 28th, 2020
 
 ### Objective:
-Identify a basic object such as a car, animal, or figure to model.
+From a single image, recreate a shoe using only (or mostly) NURBS and related tools.
 
 ### Solution:
-#### I chose to model a small figure of King Kittan from the anime show Gurren Lagann!
+#### This shoe is primarily composed of birail #1 surfaces that are then extruded to create a form.  Most notably, the spike of the shoe is created by lofting multiple circles together.
 
-![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/kingBykingside.PNG)
+![wireframe and comparison](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsShoe/images/wireFrameAndComparison.PNG)
 
-#### My primary method was to focus on roughly fitting primitives to the front and side views of the object with basic manipulations. A transparent mode was used to ensure a good fit. I also focused on only modeling one side of the model, creating a central line to mirror it about to create perfect symmetry.
+####The back of the heel area was given a split because a zipper should be right there, but it's difficult to see in the reference.
 
-![modeling](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/modelingProcess.PNG)
-
-#### For enhanced realism, I applied a Blinn material and sampled the colors directly from the images.  Here, you can also see the approximate postions of the image planes that were used.
-
-![image planes and color](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/imagePlanes-and-Color.JPG)
-
-#### Careful attention was given to ensuring that no "N-gons" were used and that triangles were minimized. For hard lines and to reduce model complexity, the fewest lines possible were used.
-
-![image planes and color](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/wireframeAndDetail.PNG)
-
-
+![wireframe and comparison](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsShoe/images/showMultiTurn.PNG)
 
