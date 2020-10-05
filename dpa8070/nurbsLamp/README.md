@@ -19,7 +19,7 @@ Model a lamp based off a single image and only use NURBS.
 
 ![Revolve and Flip](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp/images/revolveAndFlip.PNG)
 
-#### The final step is to wrestle those daggum control vertices. I grabbed 'em by the corners and pulled 'em out to make a square. To really show 'em who's the boss around here, I added a nice lil' spot light to make it look more lampy.
+#### The final step is to wrestle those daggum control vertices. I grabbed 'em by the corners and pulled 'em out to make a square. In a final attempt for increasing realism, I added a nice little spot light to make it look more lampy.
 
 ![Draw a line](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsLamp/images/manipulatedCornersAndLight.PNG)
 
