@@ -19,7 +19,7 @@ Create realistic shading and lighting for basic models (spheres) of an orange an
 
 ![dome on](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/orangeJupiter/images/orangeAndJupiter-withDome.JPG)
 
-#### To create the ilusion of a natural orange texture, the ramp includes a variety of light and dark oranges mimicing natural discolorations. The Blinn shader has some low reflections and roughness to come closer to reality, then "billow" noise creates the surface pores. The noise is tweaked until the desired affect is achieved, then the displacement scale is actually set to -0.03 to create indents on the surface instead of bumps.
+#### To create the ilusion of a natural orange texture, the ramp includes a variety of light and dark orange colors mimicing natural discolorations. The Blinn shader has some low reflections to come closer to reality, then "billow" noise creates the surface pores. The noise is tweaked until the desired affect is achieved, then the displacement scale is actually set to -0.03 to create indents on the surface instead of bumps.
 
 ![orange shader](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/orangeJupiter/images/orangeShader.JPG)
 
