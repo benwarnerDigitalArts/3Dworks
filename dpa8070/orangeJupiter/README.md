@@ -13,6 +13,6 @@ Create realistice Shading and Lighting for basic models (spheres) of an orange a
 ### Solution:
 #### I found a similar solution for both scenarios, primarily making use of basic Blinn shaders with colors driven by ramps.
 
-![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/orangeAndJupiter-noDome.JPG)
+![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/orangeJupiter/images/orangeAndJupiter-noDome.JPG)
 
 
