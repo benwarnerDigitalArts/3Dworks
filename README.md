@@ -10,6 +10,12 @@
 
 [Download King Kittan!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/kingKittan.mb)
 
+## Exercise 9: Shading and Lighting - an Orange and Jupiter
+### Date: October 7th, 2020
+[See exercise 9 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/orangeJupiter)
+
+![wireframe and comparison](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/orangeJupiter/images/orangeAndJupiter-noDome.JPG)
+
 ## Exercise 7: NURBS shoe!
 ### Date: September 28th, 2020
 [See exercise 7 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/nurbsShoe)
