@@ -10,6 +10,15 @@
 
 [Download King Kittan!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/kingKittan.mb)
 
+## Exercise 10: High Quality Render - King Kittan figure
+### Date: October 12th, 2020
+[See exercise 10 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital-hqRender)
+
+![quick gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital-hqRender/render/kingKittan.gif)
+
+[Download King Kittan: the Movie!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital-hqRender/render/kingKittan.avi)
+
+
 ## Exercise 9: Shading and Lighting - an Orange and Jupiter
 ### Date: October 7th, 2020
 [See exercise 9 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/orangeJupiter)
