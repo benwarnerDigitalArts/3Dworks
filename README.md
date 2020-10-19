@@ -12,7 +12,7 @@
 
 ## Exercise 11: Principles of Animation - Into the Spiderverse
 ### Date: October 19th, 2020
-[See exercise 11 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/priniciplesOfAnimation)
+[See exercise 11 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation)
 
 ![staging](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/stagingExs.PNG)
 
