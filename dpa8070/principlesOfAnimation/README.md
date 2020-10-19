@@ -10,7 +10,7 @@
 [Watch the official trailer to see some of these examples!](https://www.youtube.com/watch?v=g4Hbz2jLxvQ)
 
 ### Objective:
-Find at least 3 examples of the "Principles of Animation" within your selected movie.
+#### Find at least 3 examples of the "Principles of Animation" within your selected movie.
 
 ### Solution:
 #### I chose to analyze "Spiderman - Into the Spiderverse", a beautifully animated movie that can be shown to employ every principle of animation very frequently and masterfully.
@@ -30,13 +30,13 @@ Find at least 3 examples of the "Principles of Animation" within your selected m
 
 ### Appeal:
 
-#### The stylized animation in this movie mimics the apperance of a comic book, adding bold lines in all characters' movements and expressions.  This is most effective in emphasizing some facial expressions during close-ups. Enlarged eyes and other facial features further increases appeal. Lastly, each Spider Person is giving unique characteristics to set them appart from each other for a more interesting dynamic.
+#### The stylized animation in this movie mimics the apperance of a comic book, adding bold lines in all characters' movements and expressions.  This is most effective in emphasizing some facial expressions during close-ups. Enlarged eyes and other facial features further increases appeal. Lastly, each Spider Person is given unique characteristics to set them appart from each other for a more interesting dynamic.
 
 ![appeal](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/appealExs.PNG)
 
 ### Secondary Action, Moving Hold:
 
-#### The main action in this scene is the movement of the train, where as the secondary action is in the subtle movements of the fabrics on Miles Morales.  The hoodie strings exhibit the most noticeable secondary movement.
+#### The main action in this scene is the movement of the train, whereas the secondary action is in the subtle movements of the fabrics on Miles Morales.  The hoodie strings exhibit the most noticeable secondary movement.
 
 #### Additionally, the subtle fabric movements display the principle of "moving hold", where Miles is standing still and the little bit of motion prevents him from seeming lifeless.
 
@@ -50,7 +50,7 @@ Find at least 3 examples of the "Principles of Animation" within your selected m
 
 ### Staging:
 
-#### Throughout the entire film, the viewer's attention is continuosly drawn with comicbook style elements. The most iconic and effective use of this can be seen in the "Spider Sense" animation that occurs frequently. Almost as common, the use of onomatopoeias (such as "BOOM!") draw attention to certain points of action sequences.
+#### Throughout the entire film, the viewer's attention is often drawn with comicbook-style elements. The most iconic and effective use of this can be seen in the "Spider Sense" animation that occurs frequently. Even more frequently, the use of onomatopoeias (such as "BOOM!") draw attention to certain points of action sequences.
 
 ![staging](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/stagingExs.PNG)
 
