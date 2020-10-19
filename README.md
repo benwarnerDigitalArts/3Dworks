@@ -10,6 +10,12 @@
 
 [Download King Kittan!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/kingKittan.mb)
 
+## Exercise 11: Principles of Animation - Into the Spiderverse
+### Date: October 19th, 2020
+[See exercise 11 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/priniciplesOfAnimation)
+
+![staging](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/stagingExs.PNG)
+
 ## Exercise 10: High Quality Render - King Kittan figure
 ### Date: October 12th, 2020
 [See exercise 10 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital-hqRender)
