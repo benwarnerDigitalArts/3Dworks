@@ -17,27 +17,27 @@ Find at least 3 examples of the "Principles of Animation" within your selected m
 
 ### Squash and Stretch, Exaggeration:
 
-[!squash and stretch](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/squashStretchEx1.PNG)
+![squash and stretch](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/squashStretchEx1.PNG)
 
 ### Overlap + Follow-Through:
 
-[!overlap](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/overlapEx1.PNG)
+![overlap](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/overlapEx1.PNG)
 
 ### Appeal:
 
-[!appeal](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/appealExs.PNG)
+![appeal](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/appealExs.PNG)
 
 ### Secondary Action:
 
-[!secondary action](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/secondaryActEx1.PNG)
+![secondary action](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/secondaryActEx1.PNG)
 
 ### Timing:
 
-[!timing](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/timingEx1.PNG)
+![timing](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/timingEx1.PNG)
 
 ### Staging:
 
-[!staging](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/stagingExs.PNG)
+![staging](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/stagingExs.PNG)
 
 
 ### 13* Principles of Animation:
