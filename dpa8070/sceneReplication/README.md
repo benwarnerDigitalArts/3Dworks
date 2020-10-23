@@ -21,8 +21,7 @@
 
 #### The most complicated model is actually the bookshelf (other than the King Kittan figure imported from past projects).  Otherwise, the biggest task was to logically implement the books in a way that looked real.  The best way to do this proved to be using relatively simple models combined with UVs that were contructed using GIMP and photos.  These UVs were made by starting with a Blinn shader to enable reflectance adjustment and controlling color with a file. Most of the books are relatively basic, but this "Life" book/boardgame and Norse mythology book are more complex in their models and the files themselves are more interesting as well.  The rubiks cube is similar to the books, but has a unique pattern on each side and features some indents between each sub-cube.
 
-
-![quality pieces](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication/images/qualityAndShers.PNG)
+![quality pieces](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication/images/qualityAndShaders.PNG)
 
 #### King Kittan was essentially just dropped in, then scaled to match the scene. The plant was an usual piece that made use of some basic geometries and also mix shaders controlled by noise for the natural patterns.  The jar features some interesting geometries and a aiStandardShader with transparency turned up to mimic glass.  The soil, in addition to a noisy shader, has displacement driven by the same noise to make it look more like soil.
 
@@ -32,9 +31,9 @@
 
 ![exploded and wood](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication/images/explodedAndWoodShaders.PNG)
 
-#### When it's all stripped away, the scene is still pretty interesting but you can see how much the shaders really contribute to the finished product. Also, in this stripped view you can see the main directional light that creates the shadows to come closer to reality. Additionally, there is an Arnold skydome light that fills the rest of the lighting.
+#### When it's all stripped away, the scene is still pretty interesting but you can see how much the shaders really contribute to the finished product. Also, in this stripped view you can see the main directional light (upper right) that creates the shadows to come closer to reality. Additionally, there is an Arnold skydome light that fills the rest of the lighting.
 
-#### And just look at that cube again! I am surprised at how real it looks, but I think I like this piece the most.
+#### And just look at that cube again! I am surprised at how real it looks considering the simplicity, but I think I like this piece the most.
 
 ![stripped and cube](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication/images/strippedAndCube.PNG)
 
