@@ -2,6 +2,12 @@
 #### DPA 8070 3D Modeling and Animation with Jim Sidletsky
 #### By: Benjamin B. Warner
 
+## Project 1: Replicate a Scene
+### Date: October 21st, 2020
+[See Project details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication)
+
+![ref and scene](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication/images/refAndScene.PNG)
+
 ## Project 1: Model a Real World Object - King Kittan figure
 ### Date: September 23rd, 2020
 [See Project details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital)
