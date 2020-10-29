@@ -4,8 +4,7 @@
 
 [Back to the main page](https://benwarnerdigitalarts.github.io/3Dworks/)
 
-[Download this scene!]
-(https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication/sceneReplication.zip)
+[Download this scene!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication/sceneReplication.zip)
 
 ## Project 2: Replicate a Scene
 ### Date: October 21st, 2020
