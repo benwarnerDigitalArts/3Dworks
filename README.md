@@ -2,19 +2,25 @@
 #### DPA 8070 3D Modeling and Animation with Jim Sidletsky
 #### By: Benjamin B. Warner
 
-## Project 1: Replicate a Scene
+## Project 2: Replicate a Scene
 ### Date: October 21st, 2020
-[See Project details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication)
+[See Project 2 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication)
 
 ![ref and scene](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication/images/refAndScene.PNG)
 
 ## Project 1: Model a Real World Object - King Kittan figure
 ### Date: September 23rd, 2020
-[See Project details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital)
+[See Project 1 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital)
 
 ![side by side](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/images/kingBykingside.PNG)
 
 [Download King Kittan!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/kingKittan.mb)
+
+## Exercise 13: Stylizd Walk Cycle - Eternal Trudgement
+### Date: November 4th, 2020
+[See exercise 13 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/stylizedWalk)
+
+![quick gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/stylizedWalk/images/block-man-walk.gif)
 
 ## Exercise 11: Principles of Animation - Into the Spiderverse
 ### Date: October 19th, 2020
