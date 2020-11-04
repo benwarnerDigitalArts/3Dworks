@@ -16,7 +16,7 @@
 
 [Download King Kittan!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/realToDigital/kingKittan.mb)
 
-## Exercise 13: Stylizd Walk Cycle - Eternal Trudgement
+## Exercise 13: Stylizd Walk Cycle - "Eternal Trudgement"
 ### Date: November 4th, 2020
 [See exercise 13 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/stylizedWalk)
 
