@@ -17,7 +17,7 @@
 
 ![keyframes](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/stylizedWalk/images/the12keys.PNG)
 
-#### Additionally, I decided to add a basic cyclinder model to make it seem as though the character were walking on a wheel endlessly. This also serves to better convey the sense of futility. Due to some unknown optimization, this animation became a pretty good personification of what my processor went through during rendering.
+#### Additionally, I decided to add a basic cyclinder model to make it seem as though the character were walking on a wheel endlessly. This also serves to better convey the sense of futility. Due to some unknown unoptimization, this animation became a pretty good personification of what my processor went through during rendering.
 
 ![quick gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/stylizedWalk/images/block-man-walk.gif)
 
