@@ -2,6 +2,13 @@
 #### DPA 8070 3D Modeling and Animation with Jim Sidletsky
 #### By: Benjamin B. Warner
 
+## Project 3: Bringing a unicycle to life
+### Date: November 11th, 2020
+
+[See Project 3 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation)
+
+![quick gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/render/unicycleGif1.gif)
+
 ## Project 2: Replicate a Scene
 ### Date: October 21st, 2020
 [See Project 2 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication)
