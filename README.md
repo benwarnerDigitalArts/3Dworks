@@ -7,7 +7,7 @@
 
 [See Project 3 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation)
 
-![quick gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/render/unicycleGif1.gif)
+![quick gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/render/unicycleVid1.mp4)
 
 ## Project 2: Replicate a Scene
 ### Date: October 21st, 2020
