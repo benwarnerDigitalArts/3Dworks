@@ -21,15 +21,15 @@ Here is an overview of the world unrendered compared to rendered:
 
 ![unrendered-rendered](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/images/unrendered-rendered.PNG)
 
-#### A few principles of animation were included in this short clip. Most notable were examples of anticipation, staging, overlap + follow-through, and arcs. Every jump or flip of the unicycle includes some anticipation before the jump, follow-through on the landing, and arc during the jump. Anticipation can also be seen in the "windup" before any sudden forward accelerations. An example of staging can be seen when the unicycle makes "eye" contact with the camera to call attention to the cool stunt that it is about to attempt.
+#### A few principles of animation principles were included in this short clip. Most notable were examples of anticipation, staging, overlap + follow-through, and arcs. Every jump or flip of the unicycle includes some anticipation before the jump, follow-through on the landing, and arc during the jump. Anticipation can also be seen in the "windup" before any sudden forward accelerations. An example of staging can be seen when the unicycle makes "eye" contact with the camera to call attention to the cool stunt that it is about to attempt.
 
 ![landing-anticipation-staging](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/images/landing-anticipation-staging-ex.PNG)
 
-Here you can see the anticipation of jump before the backflip and the detail of the model mid-crash.
+Here you can see the anticipation of a jump before the backflip and the detail of the model mid-crash.
 
 ![backflip and crash](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/images/backflip-crash.PNG)
 
-#### Due to file size contraints, the above video is not fully capable of showing the detailed procedural textures used on each of the assets in this scene. For the unicycle seat, billow noise with reduced randomness that controls displacemet creates an interesting pattern of recessions in the seat. Similarly, wave noise is used to create an interesting and semi-realistic tire pattern. Finally, a mixture of noises is applied to the tree stump to approximate the impression of bark. The results of these shader implementations can be seen below in some focused shots.
+#### Due to file size contraints, the above video is not fully capable of showing the detailed procedural textures used on each of the assets in this scene. For the unicycle seat, billow noise with reduced randomness that controls displacemet creates an interesting pattern of recessions in the seat. Similarly, wave noise is used to create an interesting and semi-realistic tire pattern. Finally, a mixture of noises is applied to the tree stump to approximate the impression of bark. The results of these shader implementations can be seen below in some focused shots below.
 
 ![texture details](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/images/textureDetails-withSeat.PNG)
 
