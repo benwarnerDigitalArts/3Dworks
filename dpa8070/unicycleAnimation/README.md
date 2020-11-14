@@ -7,6 +7,9 @@
 ## Project 3: Bringing a unicycle to life
 ### Date: November 11th, 2020
 
+<video src="https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/render/unicycleVid1.mp4" width="320" height="200" controls preload></video>
+
+
 ![quick vid](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/render/unicycleVid1.mp4)
 
 ### Objective:
