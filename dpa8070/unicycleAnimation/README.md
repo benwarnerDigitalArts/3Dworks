@@ -9,8 +9,6 @@
 
 <video src="https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/render/unicycleVid1.mp4" width="800" height="600" controls preload></video>
 
-[Download unicycle video!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/render/unicycleVid1.mp4)
-
 [Download unicycle Maya file!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/warner-unicycle2.mb)
 
 ### Objective:
