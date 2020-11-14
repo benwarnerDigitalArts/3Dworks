@@ -9,6 +9,10 @@
 
 <video src="https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/render/unicycleVid1.mp4" width="800" height="600" controls preload></video>
 
+[Download unicycle video!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/render/unicycleVid1.mp4)
+
+[Download unicycle Maya file!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/unicycleAnimation/warner-unicycle2.mb)
+
 ## Project 2: Replicate a Scene
 ### Date: October 21st, 2020
 [See Project 2 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/sceneReplication)
