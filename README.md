@@ -2,6 +2,13 @@
 #### DPA 8070 3D Modeling and Animation with Jim Sidletsky
 #### By: Benjamin B. Warner
 
+## Final Project: Pipeline Trials - Bringing a WereDog to life
+### Date: December 9th, 2020
+
+[See Final Project details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/finalProject-wereDog)
+
+<video src="https://benwarnerdigitalarts.github.io/3Dworks/wereDog4test.mpd" width="800" height="600" controls preload></video>
+
 ## Project 3: Bringing a unicycle to life
 ### Date: November 11th, 2020
 
