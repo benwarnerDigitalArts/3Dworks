@@ -7,7 +7,7 @@
 
 [See Final Project details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/finalProject-wereDog)
 
-<video src="https://benwarnerdigitalarts.github.io/3Dworks/wereDog4test.mpd" width="800" height="600" controls preload></video>
+<video src="https://benwarnerdigitalarts.github.io/3Dworks/wereDog4test.mp4" width="800" height="600" controls preload></video>
 
 ## Project 3: Bringing a unicycle to life
 ### Date: November 11th, 2020
