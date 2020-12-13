@@ -7,7 +7,7 @@
 ## Final Project: Pipeline Trials - Taking a "Weredog" From Zbrush to Animation
 ### Date: Decemeber 9th, 2020
 
-<video src="https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/finalPropject-wereDog/wereDogVid.mp4" width="800" height="600" controls preload></video>
+<video src="https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/finalProject-wereDog/wereDogVid.mp4" width="800" height="600" controls preload></video>
 
 [Download the wereDog maya file!](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/finalProject-wereDog/wereDog4.zip)
 
