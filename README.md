@@ -38,11 +38,11 @@
 
 ![quick gif](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/stylizedWalk/images/block-man-walk.gif)
 
-## Exercise 11: Principles of Animation - Into the Spiderverse
-### Date: October 19th, 2020
-[See exercise 11 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation)
+//## Exercise 11: Principles of Animation - Into the Spiderverse
+//### Date: October 19th, 2020
+//[See exercise 11 details...](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation)
 
-![staging](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/stagingExs.PNG)
+//![staging](https://benwarnerdigitalarts.github.io/3Dworks/dpa8070/principlesOfAnimation/images/stagingExs.PNG)
 
 ## Exercise 10: High Quality Render - King Kittan figure
 ### Date: October 12th, 2020
